@@ -1,0 +1,13 @@
+
+C16_getWeather/
+CC3100/
+CC3100_docs/
+* - Copy
+*.h
+*.c
+UART_LED/
+driverlib/
+Lab2_HelloLaunchPad
+Lab_02_HelloLaunchPad
+Lab_14_VirtualMeasurementOfDistance/
+Lab_15_VirtualSpaceInvaders/
