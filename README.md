@@ -1,4 +1,4 @@
-Collection of the labs and projects done throughout the online edX course 'Embedded Systems - Shape The World' UT Austin by Jon Valvano and Ramesh Yerraballi
+Collection of the labs and projects done throughout the online edX course 'Embedded Systems - Shape The World' UT Austin by Jon Valvano and Ramesh Yerraballi.
 
 The course is split into 2 parts:
 Embedded Systems - Shape The World: Microcontroller Input/Output
